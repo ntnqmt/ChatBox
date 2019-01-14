@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad17c3a-2254-4011-b645-554421998916" name="Default" comment="chat box android" />
+    <list default="true" id="8ad17c3a-2254-4011-b645-554421998916" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2683,6 +2683,21 @@
       <option name="presentableId" value="Default" />
       <updated>1547469609914</updated>
     </task>
+    <task id="LOCAL-00001" summary="chat box test interface and adding config">
+      <created>1547478469410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547478469410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="layout implementation">
+      <created>1547478620556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547478620556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2697,7 +2712,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.7531306" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.42039356" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
@@ -2721,6 +2736,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chat box test interface and adding config" />
+    <MESSAGE value="layout implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout implementation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/nosql/anew/chatbox/ExampleInstrumentedTest.java">
